@@ -1,1 +1,1 @@
-[Download SQL Basics Presentation](SQL Basics Overview/SQL-Basics-A-Comprehensive-Intro.pdf)
+[Download SQL Basics Presentation](SQL-Basics-A-Comprehensive-Intro.pdf)
